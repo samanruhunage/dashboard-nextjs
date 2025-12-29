@@ -1,2 +1,2 @@
 # dashboard-nextjs
-This is the try out of the nextjs and postgres
+This is the try out of the nextjs and postgres. 
